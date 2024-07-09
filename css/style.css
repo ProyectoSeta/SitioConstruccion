@@ -1,8 +1,3 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wdth,wght@0,6..12,75..125,200..1000;1,6..12,75..125,200..1000&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); */
-
-
 body{
     background: rgb(0 28 65);
     /* min-height: 100vh; */
@@ -39,60 +34,6 @@ body{
 .title-sitio{
     color:rgb(255, 255, 255);
 }
-
-/* body{
-    min-height: 100%;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-}
-   */
-/* .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background: none;
-
-} */
-/* #content{
-    background-image: url('img/l.jfif');
-    background-size: 60%;
-    background-repeat: repeat;
-    background-size: 60%;
-    background-position: center center;
-    background-attachment: fixed;
-} */
-
-/* .titulo-back{
-    font-family: "Open Sans";
-    font-weight: 700;
-    background: none;
-    color: #0096f16b;
-}
-
-.custom-shape-divider-bottom-1720032407 {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-}
-
-.custom-shape-divider-bottom-1720032407 svg {
-    position: relative;
-    display: block;
-    width: calc(213% + 1.3px);
-    height: 265px;
-}
-
-.custom-shape-divider-bottom-1720032407 .shape-fill {
-    fill: #022143;
-}
-
- */
-
 
 /* ******************** */
 .custom-shape-divider-bottom-1720459534 {
